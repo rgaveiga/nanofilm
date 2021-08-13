@@ -7,8 +7,8 @@ A molecule-substrate system (*Film* object) created with *NanoFilm* consists of 
 (*Molecule* objects) adsorbed onto a substrate (*Slab* object). Of course, everything made of atoms 
 (*Atom* objects). *Atom*, *Molecule*, *Slab*, and *Film* objects have properties and methods that can 
 be used to create complex structures in a purely programmatic way, using Python 3. In this very first 
-version, the possibility of creating a molecular film object, i.e., *Lattice* objects, 
-has not yet been implemented. 
+version, the possibility of creating a molecular film object (*Lattice* objects), has not yet been 
+implemented. 
 
 If you find this package useful for your own research on adsorption of molecules on surfaces, please 
 consider citing my articles about this topic:
